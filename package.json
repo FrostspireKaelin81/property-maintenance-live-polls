@@ -1,0 +1,1 @@
+{"name":"property-live-poll","private":true,"type":"module","scripts":{"demo":"node src/demo.ts","test":"node --test test/property_poll.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.23.0"},"devDependencies":{"typescript":"^5.6.0","tsx":"^4.19.0"}}
